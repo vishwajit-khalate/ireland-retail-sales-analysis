@@ -33,9 +33,14 @@ The dataset used in this project is the Retail Sales Index dataset from Irish pu
 * Exported SQL results into Excel
 * Built an Excel dashboard with KPI cards, charts, and key insights
 
+
 ## Dashboard Preview
 
-![Retail Sales Dashboard](images/retail_sales_dashboard_screenshot.png)
+![Dashboard Screenshot 1](images/screenshot1.png)
+
+![Dashboard Screenshot 2](images/screenshot2.png)
+
+![Dashboard Screenshot 3](images/screenshot3.png)
 
 ## Key Insights
 
