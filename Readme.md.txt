@@ -36,11 +36,11 @@ The dataset used in this project is the Retail Sales Index dataset from Irish pu
 
 ## Dashboard Preview
 
-![Dashboard Screenshot 1](images/Screenshot1.png)
+![Retail Sales Dashboard](./images/Screenshot1.png)
 
-![Dashboard Screenshot 2](images/Screenshot2.png)
+![Retail Sales Dashboard](./images/Screenshot2.png)
 
-![Dashboard Screenshot 3](images/Screenshot3.png)
+![Retail Sales Dashboard](./images/Screenshot3.png)
 
 ## Key Insights
 
